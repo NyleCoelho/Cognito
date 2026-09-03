@@ -1,3 +1,5 @@
+![Banner do Projeto](BannerCognito.png)
+
 ## Sobre o Projeto
 
 Cognito é um aplicativo mobile gamificado desenvolvido como trabalho da disciplina Atividades Extensionistas: Tecnologia Aplicada à Inclusão Digital, do curso de Bacharelado em Engenharia de Software do Centro Universitário Internacional UNINTER.
