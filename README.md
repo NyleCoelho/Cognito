@@ -1,4 +1,4 @@
-![Banner do Projeto](BannerCognito.png)
+![Banner do Projeto](assets/BannerCognito.png)
 
 ## Sobre o Projeto
 
